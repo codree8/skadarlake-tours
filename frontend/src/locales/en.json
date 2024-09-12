@@ -1,0 +1,119 @@
+{
+    "navbar.home": "Home",
+    "navbar.bookTours": "Book Tours",
+    "navbar.dashboard": "Dashboard",
+    "navbar.language": "Language",
+    "homePageText.spanTitle": "Experience Skadar Lake",
+    "homePageText.title": " and explore its natural wonders with us",
+    "homePageText.description": "Embark on unforgettable adventures with our guided tours, including boat cruising, fishing, birdwatching, and kayaking.",
+    "homePageText.button": "Book your tour now!",
+    "featuredTours.title": "Featured Tours",
+    "featuredTours.description": "Discover our curated selection of tours showcasing the best of Skadar Lake.",
+    "whyChooseUs.title": "Why Choose Us",
+    "whyChooseUs.description": "Experience unforgettable adventures with our expert guides and personalized service.",
+    "whyChooseUs.features": [
+    {
+    "title": "Expert Guides",
+    "description": "Our knowledgeable guides will enhance your experience by providing insights into the ecology, wildlife, and culture of Skadar Lake."
+    },
+    {
+    "title": "Customized Tours",
+    "description": "We tailor our tours to suit your interests and preferences, ensuring a personalized and enriching experience for every guest."
+    },
+    {
+    "title": "Comfortable Transport",
+    "description": "Travel in comfort with our modern boats and equipment, ensuring a smooth and enjoyable journey on the lake."
+    },
+    {
+    "title": "Exceptional Service",
+    "description": "From booking to the end of your tour, our dedicated team is committed to providing exceptional service and ensuring your satisfaction."
+    }
+    ],
+    "clientSpeak.title": "What Our Clients Say",
+    "clientSpeak.description": "See what our satisfied clients have to say about their experiences with us.",
+    "clientSpeak.testimonials": [
+    {
+    "heading": "Unforgettable Experience",
+    "text": "Our tour of Skadar Lake was truly unforgettable. The scenery was breathtaking, and our guide was incredibly knowledgeable. Highly recommended!",
+    "name": "John Doe",
+    "title": "Travel Enthusiast"
+    },
+    {
+    "heading": "Expert Guidance",
+    "text": "Our guide provided fascinating insights into the wildlife and history of Skadar Lake, making our tour both educational and enjoyable. A must-do experience!",
+    "name": "John Doe",
+    "title": "Nature Lover"
+    },
+    {
+    "heading": "Personalized Service",
+    "text": "The team went above and beyond to tailor our tour to our interests, ensuring an unforgettable experience. We can't wait to return!",
+    "name": "John Doe",
+    "title": "Adventure Seeker"
+    }
+    ],
+    "footer.about": "About Skadar Lake Tours",
+    "footer.aboutDescription": "Explore the beauty of Skadar Lake with our expert guides and unforgettable tours.",
+    "footer.company": "Company",
+    "footer.blog": "Blog",
+    "footer.aboutUs": "About Us",
+    "footer.contactUs": "Contact Us",
+    "footer.legal": "Legal",
+    "footer.cookiesPolicy": "Cookies Policy",
+    "footer.privacyPolicy": "Privacy Policy",
+    "footer.termsOfService": "Terms of Service",
+    "footer.installApp": "Install App",
+    "footer.copyright": "© Copyright. All rights reserved.",
+    "navbarLoginButtons.login": "Login",
+    "navbarLoginButtons.signup": "Sign up for free",
+    "linkItems.home": "Home",
+    "linkItems.bookTours": "Book Tours",
+    "linkItems.dashboard": "Dashboard",
+    "linkItems.aboutUs": "About Us",
+    "linkItems.termsOfService": "Terms of Service",
+    "menuList.home": "Home",
+    "menuList.english": "English",
+    "menuList.serbian": "Serbian",
+    "menuList.profile": "Profile",
+    "menuList.logout": "Logout",
+    "searchInput": "Search ...",
+    "tourCard": {
+    "bookNow": "Book now",
+    "notAvailable": "No available dates left",
+    "perPerson": "/person",
+    "available": "Available",
+    "yes": "Yes",
+    "no": "No",
+    "confirmBook": "Confirm booking",
+    "imageNotAvailable": "Image not available"
+    },
+    "profile": {
+    "heading": "List of all your bookings",
+    "name": "Name",
+    "pricePerPerson":"Price/perPerson",
+    "numPeople":"Number of People",
+    "totalPrice": "Total Price",
+    "bookDate": "Date",
+    "noData": "No bookings available.",
+    "editProfile": "Edit profile",
+    "modifyProfile": "Modify your profile",
+    "firstname": "Firstname",
+    "lastname": "Lastname",
+    "phoneNumber": "Phone number",
+    "cancel": "Cancel",
+    "save": "Save"
+    },
+    "form": {
+    "firstname": "Firstname",
+    "lastname": "Lastname",
+    "telephone": "Telephone",
+    "email": "Email",
+    "password": "Password",
+    "createAccount": "Create account",
+    "signIn": "Sign In",
+    "welcome": "Welcome to Skadar Lake Tours",
+    "loginMessage": "Don't have an account?",
+    "signupMessage": "Already a user?"
+    },
+    "header.greeting": "Hi, Admin",
+    "header.logout": "Logout"
+    }

@@ -1,0 +1,120 @@
+
+{
+    "navbar.home": "Početna",
+    "navbar.bookTours": "Rezerviši Ture",
+    "navbar.dashboard": "Kontrolna tabla",
+    "navbar.language": "Jezik",
+    "homePageText.spanTitle": "Iskusite Skadarsko jezero",
+    "homePageText.title": " i istražite prirodne lepote s nama",
+    "homePageText.description": "Uđite u nezaboravne avanture sa našim vođenim turama, uključujući vožnju čamcem, ribolov, posmatranje ptica i kajaking.",
+    "homePageText.button": "Rezervišite svoju turu sada!",
+    "featuredTours.title": "Istaknute Ture",
+    "featuredTours.description": "Otkrijte našu odabranu selekciju tura koje prikazuju najbolje od Skadarskog jezera.",
+    "whyChooseUs.title": "Zašto Izabrati Nas",
+    "whyChooseUs.description": "Doživite nezaboravne avanture sa našim stručnim vodičima i personalizovanim uslugama.",
+    "whyChooseUs.features": [
+    {
+    "title": "Stručni Vodiči",
+    "description": "Naši obučeni vodiči će obogatiti vaše iskustvo pružajući uvide u ekologiju, divlji svet i kulturu Skadarskog jezera."
+    },
+    {
+    "title": "Prilagođene Ture",
+    "description": "Prilagođavamo naše ture prema vašim interesima i preferencijama, osiguravajući personalizovano i obogaćujuće iskustvo za svakog gosta."
+    },
+    {
+    "title": "Udoban Transport",
+    "description": "Putujte udobno sa našim modernim čamcima i opremom, osiguravajući glatko i uživanje na jezeru."
+    },
+    {
+    "title": "Izuzetna Usluga",
+    "description": "Od rezervacije do kraja vaše ture, naš posvećeni tim je posvećen pružanju izuzetne usluge i osiguranju vaše zadovoljstva."
+    }
+    ],
+    "clientSpeak.title": "Šta Naši Klijenti Kažu",
+    "clientSpeak.description": "Pogledajte šta naši zadovoljni klijenti kažu o svojim iskustvima s nama.",
+    "clientSpeak.testimonials": [
+    {
+    "heading": "Nezaboravno Iskustvo",
+    "text": "Naša tura Skadarskim jezerom bila je zaista nezaboravna. Pejzaž je bio zadivljujući, a naš vodič izuzetno obavešten. Toplo preporučujemo!",
+    "name": "John Doe",
+    "title": "Ljubitelj Putovanja"
+    },
+    {
+    "heading": "Stručno Vođstvo",
+    "text": "Naš vodič pružio je fascinantne uvide u divlji svet i istoriju Skadarskog jezera, čineći našu turu istovremeno edukativnom i uživajućom. Iskustvo koje se mora doživeti!",
+    "name": "John Doe",
+    "title": "Ljubitelj Prirode"
+    },
+    {
+    "heading": "Personalizovana Usluga",
+    "text": "Tim je otišao iznad granica kako bi prilagodio našu turu našim interesima, osiguravajući nezaboravno iskustvo. Jedva čekamo da se vratimo!",
+    "name": "John Doe",
+    "title": "Ljubitelj Avantura"
+    }
+    ],
+    "footer.about": "O Nama",
+    "footer.aboutDescription": "Istražite lepotu Skadarskog jezera sa našim stručnim vodičima i nezaboravnim turama.",
+    "footer.company": "Kompanija",
+    "footer.blog": "Blog",
+    "footer.aboutUs": "O Nama",
+    "footer.contactUs": "Kontaktirajte Nas",
+    "footer.legal": "Pravno",
+    "footer.cookiesPolicy": "Politika Kolačića",
+    "footer.privacyPolicy": "Politika Privatnosti",
+    "footer.termsOfService": "Uslovi Korišćenja",
+    "footer.installApp": "Instaliraj Aplikaciju",
+    "footer.copyright": "© Autorska Prava. Sva prava zadržana.",
+    "navbarLoginButtons.login": "Prijavi se",
+    "navbarLoginButtons.signup": "Prijavi se besplatno",
+    "linkItems.home": "Početna",
+    "linkItems.bookTours": "Rezerviši Ture",
+    "linkItems.dashboard": "Kontrolna tabla",
+    "linkItems.aboutUs": "O Nama",
+    "linkItems.termsOfService": "Uslovi Korišćenja",
+    "menuList.home": "Početna",
+    "menuList.english": "Engleski",
+    "menuList.serbian": "Srpski",
+    "menuList.profile": "Profil",
+    "menuList.logout": "Odjavi se",
+    "searchInput": "Pretraži ...",
+    "tourCard": {
+    "bookNow": "Rezerviši sada",
+    "notAvailable": "Nema slobodnih termina",
+    "perPerson": "/osoba",
+    "available": "Dostupno",
+    "yes": "Da",
+    "no": "Ne",
+    "confirmBook": "Potvrdi rezervaciju",
+    "imageNotAvailable": "Slika nije dostupna"
+    },
+    "profile": {
+    "heading": "Lista svih vaših rezervacija",
+    "name": "Naziv",
+    "pricePerPerson": "Cena/poOsobi",
+    "numPeople": "Broj ljudi",
+    "totalPrice": "Cena",
+    "bookDate": "Datum",
+    "noData": "Nema dostupnih rezervacija.",
+    "editProfile": "Izmeni profil",
+    "modifyProfile": "Izmeni svoj profil",
+    "firstname": "Ime",
+    "lastname": "Prezime",
+    "phoneNumber": "Broj telefona",
+    "cancel": "Otkaži",
+    "save": "Sačuvaj"
+    },
+    "form": {
+    "firstname": "Ime",
+    "lastname": "Prezime",
+    "telephone": "Telefon",
+    "email": "Email",
+    "password": "Šifra",
+    "createAccount": "Napravi nalog",
+    "signIn": "Prijavi se",
+    "welcome": "Dobrodošli na Skadar Lake Tours",
+    "loginMessage": "Nemate nalog?",
+    "signupMessage": "Već ste korisnik?"
+    },
+    "header.greeting": "Zdravo, Admine",
+    "header.logout": "Odjavi se"
+    }
