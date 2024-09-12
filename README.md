@@ -18,7 +18,7 @@
 - **User Authentication**: Sign up, log in, and manage profiles.
 - **Tour Booking**: Users can browse available tours and book them online.
 - **Admin Dashboard**: Manage tours, view bookings, and handle users.
-- **Multilingual Support**: English and Serbian languages supported.
+- **Multilingual Support**: English and Serbian languages supported (can add languages as much as you want).
 - **Mobile Responsive Design**: Fully responsive for a seamless experience across all devices.
 
 ## Technologies Used
